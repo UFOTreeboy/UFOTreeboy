@@ -4,10 +4,8 @@
 2..[FLASK 作品 文章記錄](https://github.com/UFOTreeboy/Flask_test)<br />
 3..[FLASK_工作專案_聊天機器人](https://github.com/UFOTreeboy/ChatBot_Demo)<br />
 4..[Golang Gin專案練習](https://github.com/UFOTreeboy/golang_gin_work)<br />
-5..[FastAPI_留言板](https://github.com/UFOTreeboy/fastapi_database_demo)<br />
+5..[FastAPI_留言板_2023年更新](https://github.com/UFOTreeboy/fastapi_database_demo)<br />
 6..[FLASK_完整API開發](https://github.com/UFOTreeboy/Flask_user_login)<br />
-7..[FastAPI後端開發]()<br />
-8..[Golang_gin後端_1](https://github.com/UFOTreeboy/go_gin_api_01)<br />
-9..[Golang_ginj後端_2]()<br />
-10..[Fastapi+Vue.js後端與網頁]()<br />
+7..[Golang_gin後端_1](https://github.com/UFOTreeboy/go_gin_api_01)<br />
+
 基於安全，部分作品隱藏
