@@ -10,7 +10,18 @@ Front end : Html5、CSS、jinja2<br />
 
 作品集
 
-1..[FLASK留言板](https://github.com/UFOTreeboy/Coding_Demo)<br />
-2..[FLASK 網頁_fly.io雲端應用](https://github.com/UFOTreeboy/Flask_test)<br />
-3..[FLASK_工作專案_聊天機器人](https://github.com/UFOTreeboy/ChatBot_Demo)<br />
-4..[FastAPI_留言板_Railway.app雲端應用](https://github.com/UFOTreeboy/fastapi_database_demo)<br />
+
+漁港地圖
+
+開發工具 : VScode、Redis、MongoDB<br />
+使用語言 : Flask、Python、Html<br />
+其他: NoSQL、Json、Folium<br />
+
+介紹:<br />
+利用政府開放資料提供的漁港資料，<br />
+使用Python Folium製作地圖，提供漁港狀態、分類與聯絡方式，<br />
+為了減省資料庫效能，提升後端客戶端使用體驗，<br />
+選用Redis作為快取資料庫。<br />
+
+
+https://map_information-1-m6538782.deta.app/
