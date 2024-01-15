@@ -5,8 +5,8 @@ Database : Sqlite3、MS-SQL、MongoDB<br />
 Back-end : FastAPI、FLASK、Python、Gin、Golang、JavaScript<br />
 Front end : Html5、CSS、jinja2<br />
 
-
-
+我的作品很多，但都是為了驗證自己學習到的技能能不能實現，因此並沒有完整的網站，<br />
+不過我會將它們整合起來。
 
 作品集
 
