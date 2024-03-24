@@ -7,9 +7,9 @@ Front end : Html5、CSS、jinja2<br />
 
 
 
-作品集
+##作品集
 
-漁業資訊網
+漁業資訊網站
 
 開發工具 : VScode、Redis、MongoDB<br />
 使用語言 : Flask、Python、Html、JavaScript<br />
