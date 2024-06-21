@@ -11,8 +11,7 @@ Front end : Html5、CSS、jinja2<br />
 
 **漁業資訊網站**
 
-[https://portmap.onrender.com/
-](https://github.com/UFOTreeboy/side_project_1)<br />
+https://github.com/UFOTreeboy/side_project_1<br />
 
 開發工具 : VScode、Redis、MongoDB<br />
 使用語言與框架 : Python、Flask、Jinja2、Html5、CSS、Bootstrap5、JavaScript<br />
